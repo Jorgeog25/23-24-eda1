@@ -1,6 +1,7 @@
-import core.Options;
-import print.PrintInstructions;
 
+
+import print.PrintInstructions;
+import core.Options;
 
 public class Main {
     public static void main(String[] args) {

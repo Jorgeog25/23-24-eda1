@@ -1,4 +1,4 @@
-package listas.basica;
+import utils.List;
 
 class Ejemplo {
     public static void main(String[] args) {

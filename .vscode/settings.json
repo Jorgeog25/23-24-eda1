@@ -1,5 +1,13 @@
 {
     "githubPullRequests.ignoredPullRequestBranches": [
         "main"
-    ]
+    ],
+    "java.project.sourcePaths": [
+        "entregas/oteroJorge/reto001",
+        "entregas/oteroJorge/Reto004",
+        "entregas/oteroJorge/Reto003",
+        "entregas/oteroJorge/Carrefour",
+        "entregas/oteroJorge/reto002"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
 }
